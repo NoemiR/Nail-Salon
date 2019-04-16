@@ -1,4 +1,6 @@
-
+body {
+	background-color: #fbe3e2;
+}
 
 .card-columns {
   @include media-breakpoint-only(lg) {
