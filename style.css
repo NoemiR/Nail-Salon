@@ -11,3 +11,7 @@ body {
     column-count: 5;
   }
 }
+
+nav a {
+	color: #65126d;
+}
