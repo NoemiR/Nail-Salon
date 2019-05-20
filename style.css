@@ -15,3 +15,8 @@ body {
 nav a {
 	color: #65126d;
 }
+
+#gallery {
+	height: 200px;
+	width: 200px;
+}
